@@ -1,16 +1,18 @@
-# quiz
+# Quiz App in Flutter
 
-A new Flutter project.
+### This is my starting projects to learn flutter
 
-## Getting Started
+### Things I have learned in this project
+- Using stateful widgets to update UI based on data
+- Using stateless widgets to simply display data
+- Render Images and using custom assets
+- Conditional Rendering in flutter
+- Importing open-source packages from pub.dev
+- Styling the componets
+- Different widgets including Scrollable widgets,Buttons,Texts,Rows,Columns,Expanded widgets
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ScreenShots:
+![Quiz Screen](Screenshot_2023-11-03-14-24-41-96_f97113f783e2ccdcaed9f49ad8453da5.jpg)
+![Question Screen](Screenshot_2023-11-03-14-26-06-90_f97113f783e2ccdcaed9f49ad8453da5.jpg)
+![Results Screen](Screenshot_2023-11-03-14-27-01-02_f97113f783e2ccdcaed9f49ad8453da5.jpg)
+#### By the way I am React developer and I can easily connect the core concepts with flutter
